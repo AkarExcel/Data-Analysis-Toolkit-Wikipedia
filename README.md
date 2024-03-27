@@ -3,8 +3,8 @@ WikiDAT
 
 ### Wikipedia Data Analysis Toolkit
 
-+ **Author**: Felipe Ortega.
-+ **Contributors**: Carlos Martínez, Efrayim D Zitron, Aaron Halfaker.
++ **Author**: Akar Excel.
++ **Contributors**: Carlos Martínez, Efrayim D Zitron, Aaron Halfaker, Felipe Ortega.
 + **License**: [GPLv3](http://www.gnu.org/licenses/gpl.txt).
 + **Python version**: 3.4.2
 
